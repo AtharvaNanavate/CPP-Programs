@@ -1,3 +1,5 @@
+/* Problem : Given an array a[] of size n. For every i from 0 to n-1, output max(a[0], a[1],.., a[i]). */
+
 #include<iostream>
 using namespace std;
 
@@ -28,5 +30,6 @@ int main(){
     for(int i = 0; i < n; i++){
         maxTill(i,arr);
     }
+    
     return 0;
 }
