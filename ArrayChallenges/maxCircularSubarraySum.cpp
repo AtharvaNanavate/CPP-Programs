@@ -1,4 +1,4 @@
-/* Problem : Find the subarray in an array which has maximum sum. Print the sum as output.
+/* Problem : Find the subarray in a circular array which has maximum sum. Print the sum as output.
 */
 
 #include<bits/stdc++.h>
